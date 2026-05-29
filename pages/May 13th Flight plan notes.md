@@ -1,0 +1,4 @@
+- There is a reference to [Simma](https://www.mdpi.com/2504-446X/4/2/23) which is apparently their favourite
+	- they used a stationary drone hovering near an ultrasonic anemometer to get the flight data.
+-
+- #flightplan #litreview #2026USRA
