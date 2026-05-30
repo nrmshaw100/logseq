@@ -6,11 +6,24 @@
 	- ineffective public awareness program
 	- absence of natural  gad detection alarms in buildings
 -
-- What happened:
+- ## What happened:
 	- Natural gas had leaked from a service line pipe that had partially pulled out of compression couplings and migrated through the ground into homes where it exploded
 	- Leaks were caused by expansive clay soil movement, which caused service-line pipes to partially pull out of the compression fittings over time
 	- Leaks were detected by Atmos several weeks before the explosion, but were classified as nonhazardous/low priority.
 	- Atmos did not have a company wide leak management procedure requiring employees to frequently monitor this type of leak (adverse soil conditions)
 	- Several people in the area had smelled natural gas odorant and did not now to evacuate or call 911, AKA there was not good public awareness
 	- No natural gas alarms had been placed inside the homes
-	- the pipe fittings were left unrepaired for 8 weeks, partially due to their in
+	- the pipe fittings were left unrepaired for 8 weeks, partially due to their leak management, and due to the inaccurate leak classification
+-
+- ## NTSB Recommendations
+	- Replace all pipes in the expansive soil that are not resistant to pip pullout
+	- Require weekly monitoring of nonhazardous belowground leaks identified in locations with adverse soil conditions
+	- train technicians after updating leak monitoring procedures
+	- train emergency officials more frequently and monitor effectiveness of training
+	- Require technicians to notify people near an unrepaired leak that the hazard of a leak can change and that they should call 911
+	- Proactively identify and collect all missing service line information for all its operating divisions
+	- transition from a relative risk model to a probabilistic risk model
+	- make natural gas alarms available to members of the public who live in Atmos distribution areas
+-
+- ## Facts
+	-
