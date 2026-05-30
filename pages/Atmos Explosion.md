@@ -1,2 +1,16 @@
 ## Summary
-- An explosion of a house in Jackson Mississippi
+- explosions and fires at two separate homes, happening 3 days apart from each other. abstract says that safety issues identified were:
+	- compression coupling leaks
+	- insufficient leak management program
+	- inadequate distribution integrity management program
+	- ineffective public awareness program
+	- absence of natural  gad detection alarms in buildings
+-
+- What happened:
+	- Natural gas had leaked from a service line pipe that had partially pulled out of compression couplings and migrated through the ground into homes where it exploded
+	- Leaks were caused by expansive clay soil movement, which caused service-line pipes to partially pull out of the compression fittings over time
+	- Leaks were detected by Atmos several weeks before the explosion, but were classified as nonhazardous/low priority.
+	- Atmos did not have a company wide leak management procedure requiring employees to frequently monitor this type of leak (adverse soil conditions)
+	- Several people in the area had smelled natural gas odorant and did not now to evacuate or call 911, AKA there was not good public awareness
+	- No natural gas alarms had been placed inside the homes
+	- the pipe fittings were left unrepaired for 8 weeks, partially due to their in
