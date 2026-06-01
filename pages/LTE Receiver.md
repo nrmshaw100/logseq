@@ -10,18 +10,33 @@
 	- **OCI**: Other cell interference
 	- ### Timing and synchronization
 		- need to determine the timing offset of the symbol, and align with the specific carrier frequency
-		- channel delay spread: a measure of the difference between the time of arrival between the earliest multipath component and the last multipath component realize
+		- channel delay spread $T_m$: a measure of the difference between the time of arrival between the earliest multipath component and the last multipath component realize
+		- the timing offset $\tau$ cannot be greater than the difference between the cyclic prefix and the channel delay spread:
+		  $$\tau < T_g - T_m$$
+		  importantly, SNR decreases quadratically with the timing offset
+	- ### FDMA and TDMA
+		- Users are given a block of OFDM subcarriers, allowing for multiple users at lower datarates. We can also allocate timing slots to users as well, combining FDMA and TDMA into one thing
+	- ### OFDMA
+		- allocate time-frequency slices to subscribers (LTE Resource grids). Consists of M subcarriers over some number of consecutive OFDM symbols (usually 7)
 		-
+		-
+	- ### SC-FDMA
+		- SC-FDMA is used in the uplink because it has a lower PAPR, allowing UE amplifiers to work more efficiently.
+	-
 -
 - [LTE Receiver, Demel](https://www.cel.kit.edu/download/SDR-WInnComm-Europe-2013_DemelKoslowskiJondral.pdf)
 -
 - ### Definitions:
 	- UE: User Equipment
 	- OFDMA: OFDM Access
-	- eNodeB: Evolved Node B (essentially a tower/server sorta thing)
+	- eNodeB: Evolved Node B. This is the network hardware/base station
 	- GPP: General Purpose Processor
 	- PLMN: Public Land Mobile Network
-		-
+	- SINR: Signal to interference plus noise ratio
+	- S/P: serial to parallel
+	- CSI: Channel state information
+	- AMC: adaptive modulation and coding
+	-
 -
 - What is LTE (from Matlab website):
 	- LTE was developed b the Third Generation Partnership Project (3GPP)
