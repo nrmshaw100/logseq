@@ -11,10 +11,10 @@
 		  | 10 | 15 | UART0 RX | yellow |
 		-
 	-
-- NOW Figure out what battery to use and make sure it will have enough power for transducers
+- DONE Figure out what battery to use and make sure it will have enough power for transducers
   :LOGBOOK:
   CLOCK: [2026-05-12 Tue 10:17:21]
-  CLOCK: [2026-05-12 Tue 10:17:22]
+  CLOCK: [2026-05-12 Tue 10:17:22]--[2026-06-02 Tue 10:11:07] =>  503:53:45
   :END:
 -
 -
