@@ -61,5 +61,8 @@
 		- The Physical Layer (PHY)
 		-
 -
-- LTE Procedure
-	- when the UE first powers on, it tunes to the available
+- # The plan
+- Create a script which calls CellSearch, going through all the low bands in canada.
+- Extract the cells and their center frequencies
+- Use some sort of a lookup table to determine the duplex spacing of the cell and determine the uplink frequency for the cells
+-
