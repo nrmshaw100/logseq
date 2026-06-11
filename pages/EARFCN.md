@@ -1,0 +1,3 @@
+- The formula for EARFCN is:
+- $$F_{DL} = F_{DL\_low} + 0.1(N_{DL} - N_{Offs-DL})$$
+- $$F_{UL} = F_{UL\_low} + 0.1(N_{UL} - N_{Offs-UL})$$

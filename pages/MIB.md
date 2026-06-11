@@ -1,0 +1,6 @@
+- [Sharetechnote](https://www.sharetechnote.com/html/Handbook_LTE_MIB.html)
+- Carries the following information
+	- Downlink BW, number of transmit antennas
+	- system frame number
+	- #PHICH configuration
+-
