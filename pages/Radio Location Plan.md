@@ -1,0 +1,13 @@
+- Theres a project that did this already: [bloodhound](https://hackaday.io/project/25995-bloodhound-autonomous-radiolocation-drone)
+	- also this one: [Drone mounted RF direction finder](https://www.hocell.com/productinfo/915668.html)
+-
+- this is called a Fox hunt. will do some more reading about this to make sure what we're doing is not stupid
+-
+- right now we are assuming that we can fit a quadratic to the data, but that may not be a reasonable guess due to the power received/sampling inconsistencies.
+	- maybe it is worth it to do some filtering of the power data, like some sort of image filter maybe, like a Gaussian or something
+	- we could also do the center of mass thing, but use the position guess as the center of the next flight. this probably isn't efficient
+-
+-
+-
+- ## The plan
+	- Attach a directional

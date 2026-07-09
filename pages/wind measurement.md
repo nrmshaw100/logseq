@@ -1,4 +1,5 @@
-### Ardupilot method
+- #KalmanFilter
+- ### Ardupilot method
 	- ardupilot relies on their extended Kalman Filter
 		- Filter model:
 		  $$\mathbf{x_k} = f(\mathbf{x}_{k-1}, u_{k-1}) + \mathbf{w}_{k-1} \\

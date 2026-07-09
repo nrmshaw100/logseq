@@ -1,0 +1,6 @@
+- the state update equation is:
+	- $$\hat{x}_{n,n} = \hat{x}_{n, n-1} + K_n(z_n - \hat{x}_{n, n-1})$$
+	- where $\hat{x}_{n, m}$ is the predicted state at time n based on the measurement at time m
+	- $z_n$ is the measurement value and the term $(z_n - \hat{x}_{n, n-1})$ is called the **Measurement Residual** or the **Innovation**
+	-
+	-

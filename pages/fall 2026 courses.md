@@ -1,0 +1,6 @@
+- nonlinear optics ECE 452
+- nanophotonics course ece 67 something
+- guilipour nanophotonics course
+- integrated optics course by dr van
+- inquire about jason's special topics
+- quantum b in fall
