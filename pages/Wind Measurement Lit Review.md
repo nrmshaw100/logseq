@@ -1,0 +1,2 @@
+- see ipad for notes
+- [Sensing Wind from Quadrotor motion](https://www.researchgate.net/publication/330980326_Sensing_Wind_from_Quadrotor_Motion)
